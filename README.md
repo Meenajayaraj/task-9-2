@@ -2,7 +2,7 @@
 * using `HTML` ,`CSS` & `DOM` *
 * Javascript
   
-## click the link for deployed URL of [Netlify]()
+## click the link for deployed URL of [Netlify](https://calculatortask-9.netlify.app/)
 
 output for the task
 
